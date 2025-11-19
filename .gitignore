@@ -1,0 +1,16 @@
+# MongoDB sensitive configuration files
+mongodb-config.env
+connection-info.txt
+*.backup
+
+# Backup files
+*.tar.gz
+/backup/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
